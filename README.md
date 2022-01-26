@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mike-Marsh-Distributed
-- 👀 I’m interested in recruiting quality driven tech teams for distributed.co
+- 👀 I’m interested in recruiting quality driven tech teams for www.distributed.co
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me mike.marsh@distributed.co
 
